@@ -3,7 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/classes" isTestSource="false" packagePrefix="Jcore\Ydin\" />
+      <sourceFolder url="file://$MODULE_DIR$/classes" isTestSource="false" packagePrefix="Jcore\Template\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/dealerdirect/phpcodesniffer-composer-installer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/php-stubs/wordpress-stubs" />
