@@ -1,6 +1,6 @@
 {
-    "name": "jcore/template",
-    "description": "JCORE Module Template repository",
+    "name": "jcore/kaverit",
+    "description": "JCORE Contacts module",
     "type": "library",
     "license": "GPL-2.0-only",
     "autoload": {
