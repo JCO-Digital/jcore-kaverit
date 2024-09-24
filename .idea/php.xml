@@ -3,11 +3,15 @@
   <component name="LaravelPintOptionsConfiguration">
     <option name="ruleset" value="laravel" />
   </component>
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
   <component name="PHPCodeSnifferOptionsConfiguration">
-    <option name="codingStandard" value="WordPress" />
-    <option name="extensions" value="php" />
-    <option name="installedPaths" value="$PROJECT_DIR$/vendor/wp-coding-standards/wpcs" />
-    <option name="showSniffs" value="true" />
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
@@ -33,9 +37,15 @@
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
   <component name="PhpUnit">
     <phpunit_settings>
       <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" phpunit_phar_path="" />
     </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
   </component>
 </project>
